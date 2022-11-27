@@ -1,0 +1,27 @@
+.bg-img-1{
+    background-image: url(Images/Home/slider_1.webp);
+}
+.bg-img-2{
+    background-image: url(Images/Home/slider_2.jpg);
+}
+.bg-img-3{
+    background-image: url(Images/Home/slider_3.jpg);
+}
+.carousel-image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container1{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 150px;
+}
+.booking{
+    margin-top: -4rem;
+    padding: 50px 30px;
+    position: relative;
+}

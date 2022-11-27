@@ -1,0 +1,9 @@
+.bg-img-1{
+    background-image: url(Images/Conference/conference_hall.jpg);
+}
+.image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

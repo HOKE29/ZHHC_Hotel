@@ -1,0 +1,35 @@
+.bg-img-1{
+    background-image: url(Images/Facilities&Services/hotelibary.jpg);
+}
+
+.bg-img-2{
+    background-image: url(Images/Facilities&Services/slider1.jpg);
+}
+
+.bg-img-3{
+    background-image: url(Images/Facilities&Services/slider3.jpg);
+}
+
+.carousel-image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.container1{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 100px;
+}

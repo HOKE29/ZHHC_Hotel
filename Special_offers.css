@@ -1,0 +1,32 @@
+.bg-img-1{
+    background-image: url(Images/Special_Offers/Hotel_bedroom.jpg);
+}
+.bg-img-2{
+    background-image: url(Images/Special_Offers/Best_hotel.jpg);
+}
+.bg-img-3{
+    background-image: url(Images/Special_Offers/sliver_bed_hotel.jpg);
+}
+.carousel-image{
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+body {
+    background-color: #cccccc;
+}
+form{
+    background-color: #e8e8e8;
+}
+.font{
+    font-size: 55px;
+    letter-spacing: 5px;
+}
+.text{
+    font-size: 25px;
+    background-color: #cccccc;
+}
+.fontsize{
+    font-size: 25px;
+}
